@@ -1,0 +1,27 @@
+{
+  "name": "hmsbackend",
+  "version": "1.0.0",
+  "description": "Backend for HMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guruprasadss0512/HMS.git"
+  },
+  "keywords": [
+    "backend",
+    "HMS",
+    "Hospital Management System",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Guru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guruprasadss0512/HMS/issues"
+  },
+  "homepage": "https://github.com/guruprasadss0512/HMS#readme"
+}
